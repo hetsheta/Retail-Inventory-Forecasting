@@ -1,0 +1,7 @@
+streamlit
+scikit-learn>=1.0
+xgboost
+prophet
+pandas
+numpy
+joblib
